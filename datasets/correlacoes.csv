@@ -1,0 +1,381 @@
+"","disciplina_A","disciplina_B","correlacao"
+"796","Sistemas de Informação I","Lab. de Intercon. de Redes de Computadores",0.300222644122393
+"177","Lab. de Estrutura de Dados e Algoritmos","Gerência da Informação",0.301021638464612
+"858","Teoria da Computação","Álgebra Vetorial e Geometria Analítica",0.301036330354926
+"262","Laboratório de Programação II","Banco de Dados I",0.30134773436133
+"75","Fundamentos de Física Clássica","Estrutura de Dados e Algoritmos",0.301538243888743
+"907","Teoria dos Grafos","Cálculo Diferencial e Integral II",0.301545721848867
+"229","Laboratório de Engenharia de Software","Compiladores",0.301910245921087
+"120","Inteligência Artificial I","Cálculo Diferencial e Integral II",0.301978623846822
+"829","Sistemas Operacionais","Gerência da Informação",0.302034064627743
+"887","Teoria da Computação","Métodos Estatisticos",0.302182328378727
+"825","Sistemas Operacionais","Engenharia de Software I",0.302314412197126
+"534","Probabilidade e Estatistica","Lab. de Intercon. de Redes de Computadores",0.302344814624062
+"754","Sistemas de Informação II","Aval. de Desempenho de Sistemas Discretos",0.302457186843714
+"531","Probabilidade e Estatistica","Interconexão de Redes de Computadores",0.302689678121962
+"706","Redes de Computadores","Laboratório de Programação II",0.302836988597158
+"83","Fundamentos de Física Moderna","Cálculo Diferencial e Integral II",0.302951716308059
+"209","Lab. de Org. e Arquitetura de Computadores","Compiladores",0.303109095341983
+"140","Interconexão de Redes de Computadores","Estrutura de Dados e Algoritmos",0.30314890802417
+"434","Métodos Estatisticos","Fundamentos de Física Clássica",0.303336504537453
+"530","Probabilidade e Estatistica","Inteligência Artificial I",0.304005524857711
+"839","Sistemas Operacionais","Laboratório de Programação II",0.304038532595037
+"898","Teoria da Computação","Sistemas de Informação II",0.304374211056279
+"352","Matemática Discreta","Fundamentos de Física Moderna",0.304480633660056
+"186","Lab. de Intercon. de Redes de Computadores","Banco de Dados II",0.304559732760905
+"381","Métodologia Científica","Inteligência Artificial I",0.305615270810924
+"347","Matemática Discreta","Compiladores",0.305699192490846
+"245","Laboratório de Programação I","Análise e Técnica de Algoritmos",0.305718232890305
+"515","Probabilidade e Estatistica","Álgebra Vetorial e Geometria Analítica",0.305719583876988
+"646","Projeto em Computação II","Laboratório de Engenharia de Software",0.305926460947139
+"906","Teoria dos Grafos","Cálculo Diferencial e Integral I",0.306234188278781
+"778","Sistemas de Informação II","Matemática Discreta",0.306312841019954
+"843","Sistemas Operacionais","Métodologia Científica",0.306547251034284
+"746","Sistemas de Informação I","Engenharia de Software I",0.306930084403491
+"409","Métodos e Software Numéricos","Inteligência Artificial I",0.307230735965367
+"343","Matemática Discreta","Banco de Dados I",0.30742708612372
+"134","Interconexão de Redes de Computadores","Banco de Dados II",0.30760297478847
+"527","Probabilidade e Estatistica","Fundamentos de Física Moderna",0.307729397505059
+"65","Fundamentos de Física Clássica","Álgebra Vetorial e Geometria Analítica",0.307810650680142
+"880","Teoria da Computação","Laboratório de Programação I",0.307959358218319
+"552","Programação I","Banco de Dados II",0.308472844396812
+"7","Banco de Dados I","Álgebra Linear I",0.308755092572838
+"203","Lab. de Org. e Arquitetura de Computadores","Análise e Técnica de Algoritmos",0.308960203845646
+"933","Teoria dos Grafos","Probabilidade e Estatistica",0.308989806716695
+"715","Redes de Computadores","Probabilidade e Estatistica",0.309260595437739
+"87","Fundamentos de Física Moderna","Estrutura de Dados e Algoritmos",0.30951966418977
+"123","Inteligência Artificial I","Engenharia de Software I",0.309642642888826
+"668","Projeto em Computação I","Laboratório de Engenharia de Software",0.310185794383368
+"159","Introdução à Computação","Fundamentos de Física Moderna",0.310470186216384
+"12","Banco de Dados II","Álgebra Vetorial e Geometria Analítica",0.310473929355134
+"32","Compiladores","Aval. de Desempenho de Sistemas Discretos",0.31051813670907
+"516","Probabilidade e Estatistica","Análise e Técnica de Algoritmos",0.310544708425289
+"480","Org. e Arquitetura de Computadores I","Métodos e Software Numéricos",0.310828434837492
+"782","Sistemas de Informação I","Inteligência Artificial I",0.311309821217318
+"555","Programação I","Compiladores",0.311479707760009
+"738","Sistemas de Informação I","Álgebra Vetorial e Geometria Analítica",0.312047165798774
+"522","Probabilidade e Estatistica","Compiladores",0.313527219543925
+"519","Probabilidade e Estatistica","Banco de Dados II",0.314667602570031
+"89","Gerência da Informação","Álgebra Linear I",0.314713423275531
+"116","Inteligência Artificial I","Aval. de Desempenho de Sistemas Discretos",0.315339984705447
+"415","Métodos e Software Numéricos","Laboratório de Engenharia de Software",0.315376952671294
+"58","Estrutura de Dados e Algoritmos","Banco de Dados II",0.315922452044069
+"818","Sistemas Operacionais","Aval. de Desempenho de Sistemas Discretos",0.315930460301107
+"698","Redes de Computadores","Inteligência Artificial I",0.315941105389365
+"124","Inteligência Artificial I","Estrutura de Dados e Algoritmos",0.316041602094217
+"521","Probabilidade e Estatistica","Cálculo Diferencial e Integral II",0.316131245836399
+"21","Cálculo Diferencial e Integral I","Banco de Dados II",0.316295737029092
+"548","Programação I","Álgebra Vetorial e Geometria Analítica",0.31678958454355
+"316","Lógica Matemática","Aval. de Desempenho de Sistemas Discretos",0.317025637058648
+"16","Cálculo Diferencial e Integral I","Álgebra Linear I",0.317674153638708
+"333","Lógica Matemática","Lab. de Intercon. de Redes de Computadores",0.317823151336435
+"48","Engenharia de Software I","Banco de Dados II",0.318091888376602
+"47","Engenharia de Software I","Banco de Dados I",0.318339822308413
+"231","Laboratório de Engenharia de Software","Engenharia de Software I",0.320104987096916
+"183","Lab. de Intercon. de Redes de Computadores","Análise e Técnica de Algoritmos",0.320334812837621
+"131","Interconexão de Redes de Computadores","Análise e Técnica de Algoritmos",0.320683732968295
+"873","Teoria da Computação","Inteligência Artificial I",0.320935976103188
+"113","Inteligência Artificial I","Álgebra Linear I",0.321019605720667
+"709","Redes de Computadores","Matemática Discreta",0.321324343508623
+"212","Lab. de Org. e Arquitetura de Computadores","Estrutura de Dados e Algoritmos",0.321363538513324
+"568","Programação II","Cálculo Diferencial e Integral I",0.321380332977224
+"482","Paradigmas de Ling. de Programação","Álgebra Linear I",0.322002782489074
+"575","Programação II","Gerência da Informação",0.322087287320011
+"465","Org. e Arquitetura de Computadores I","Gerência da Informação",0.322427794312571
+"769","Sistemas de Informação II","Introdução à Computação",0.322518273335436
+"520","Probabilidade e Estatistica","Cálculo Diferencial e Integral I",0.322856861121011
+"899","Teoria da Computação","Sistemas Operacionais",0.32288311841145
+"716","Redes de Computadores","Programação I",0.323309267637336
+"330","Lógica Matemática","Interconexão de Redes de Computadores",0.323419162233729
+"475","Org. e Arquitetura de Computadores I","Laboratório de Programação II",0.323541500792635
+"881","Teoria da Computação","Laboratório de Programação II",0.32359904904908
+"833","Sistemas Operacionais","Introdução à Computação",0.323683571845114
+"167","Lab. de Estrutura de Dados e Algoritmos","Aval. de Desempenho de Sistemas Discretos",0.323775801672717
+"750","Sistemas de Informação I","Gerência da Informação",0.324925444448728
+"139","Interconexão de Redes de Computadores","Engenharia de Software I",0.325213913122618
+"151","Introdução à Computação","Banco de Dados II",0.326032368260375
+"712","Redes de Computadores","Métodos Estatisticos",0.326575306756119
+"341","Matemática Discreta","Análise e Técnica de Algoritmos",0.327117982338964
+"503","Paradigmas de Ling. de Programação","Lab. de Org. e Arquitetura de Computadores",0.327453906321716
+"694","Redes de Computadores","Fundamentos de Física Clássica",0.327650664546094
+"809","Sistemas de Informação I","Probabilidade e Estatistica",0.329397433390938
+"251","Laboratório de Programação I","Compiladores",0.329409660796266
+"70","Fundamentos de Física Clássica","Cálculo Diferencial e Integral I",0.329547429789363
+"54","Estrutura de Dados e Algoritmos","Álgebra Vetorial e Geometria Analítica",0.329860063480975
+"940","Teoria dos Grafos","Sistemas de Informação II",0.329930226507918
+"617","Projeto em Computação I","Aval. de Desempenho de Sistemas Discretos",0.330504738644273
+"191","Lab. de Intercon. de Redes de Computadores","Engenharia de Software I",0.330611648194598
+"175","Lab. de Estrutura de Dados e Algoritmos","Fundamentos de Física Clássica",0.331207309761042
+"178","Lab. de Estrutura de Dados e Algoritmos","Inteligência Artificial I",0.331482355236995
+"79","Fundamentos de Física Moderna","Aval. de Desempenho de Sistemas Discretos",0.332025468413338
+"205","Lab. de Org. e Arquitetura de Computadores","Banco de Dados I",0.33221155837933
+"176","Lab. de Estrutura de Dados e Algoritmos","Fundamentos de Física Moderna",0.332337846493877
+"118","Inteligência Artificial I","Banco de Dados II",0.332769732332276
+"904","Teoria dos Grafos","Banco de Dados I",0.332954126595553
+"787","Sistemas de Informação II","Probabilidade e Estatistica",0.333313101404185
+"865","Teoria da Computação","Compiladores",0.333850147221503
+"518","Probabilidade e Estatistica","Banco de Dados I",0.334281710764034
+"502","Paradigmas de Ling. de Programação","Lab. de Intercon. de Redes de Computadores",0.334301059256199
+"499","Paradigmas de Ling. de Programação","Interconexão de Redes de Computadores",0.334603128970555
+"396","Métodos e Software Numéricos","Aval. de Desempenho de Sistemas Discretos",0.33468663216085
+"838","Sistemas Operacionais","Laboratório de Programação I",0.334787883262802
+"509","Paradigmas de Ling. de Programação","Matemática Discreta",0.335350166778258
+"905","Teoria dos Grafos","Banco de Dados II",0.336146335942934
+"848","Sistemas Operacionais","Probabilidade e Estatistica",0.337340599579665
+"767","Sistemas de Informação II","Inteligência Artificial I",0.337474868029239
+"463","Org. e Arquitetura de Computadores I","Fundamentos de Física Clássica",0.337719550544541
+"426","Métodos Estatisticos","Banco de Dados I",0.339192301677278
+"27","Cálculo Diferencial e Integral II","Banco de Dados II",0.339458437793501
+"567","Programação II","Banco de Dados II",0.339741250788467
+"938","Teoria dos Grafos","Redes de Computadores",0.340397946451173
+"498","Paradigmas de Ling. de Programação","Inteligência Artificial I",0.340685396957838
+"901","Teoria dos Grafos","Álgebra Vetorial e Geometria Analítica",0.341816476394545
+"900","Teoria dos Grafos","Álgebra Linear I",0.341885276455652
+"226","Laboratório de Engenharia de Software","Banco de Dados I",0.342203987975714
+"401","Métodos e Software Numéricos","Compiladores",0.342365047250186
+"154","Introdução à Computação","Compiladores",0.342799091495974
+"810","Sistemas de Informação I","Programação I",0.343944825137096
+"845","Sistemas Operacionais","Métodos Estatisticos",0.344489861524493
+"244","Laboratório de Programação I","Álgebra Vetorial e Geometria Analítica",0.344537071142176
+"799","Sistemas de Informação I","Laboratório de Programação I",0.344901910781352
+"61","Estrutura de Dados e Algoritmos","Compiladores",0.34495291317283
+"326","Lógica Matemática","Fundamentos de Física Moderna",0.345318436732684
+"23","Cálculo Diferencial e Integral II","Álgebra Vetorial e Geometria Analítica",0.345966753506373
+"875","Teoria da Computação","Introdução à Computação",0.346213585144402
+"458","Org. e Arquitetura de Computadores I","Cálculo Diferencial e Integral II",0.346551358157265
+"29","Compiladores","Álgebra Linear I",0.346853211219139
+"814","Sistemas de Informação I","Redes de Computadores",0.348235150522669
+"425","Métodos Estatisticos","Aval. de Desempenho de Sistemas Discretos",0.348402215352538
+"761","Sistemas de Informação II","Engenharia de Software I",0.34874904803787
+"51","Engenharia de Software I","Compiladores",0.349257352322351
+"28","Cálculo Diferencial e Integral II","Cálculo Diferencial e Integral I",0.349656377405037
+"13","Banco de Dados II","Análise e Técnica de Algoritmos",0.349739246547715
+"424","Métodos Estatisticos","Análise e Técnica de Algoritmos",0.34991190388547
+"468","Org. e Arquitetura de Computadores I","Interconexão de Redes de Computadores",0.35102481319404
+"427","Métodos Estatisticos","Banco de Dados II",0.351028697439303
+"170","Lab. de Estrutura de Dados e Algoritmos","Cálculo Diferencial e Integral I",0.351097605448515
+"512","Paradigmas de Ling. de Programação","Métodos Estatisticos",0.351200424625506
+"179","Lab. de Estrutura de Dados e Algoritmos","Interconexão de Redes de Computadores",0.351217131796973
+"753","Sistemas de Informação II","Análise e Técnica de Algoritmos",0.351449227302659
+"306","Leitura e Produção de Textos","Introdução à Computação",0.352081904043872
+"185","Lab. de Intercon. de Redes de Computadores","Banco de Dados I",0.352544110498752
+"916","Teoria dos Grafos","Inteligência Artificial I",0.352572057811913
+"464","Org. e Arquitetura de Computadores I","Fundamentos de Física Moderna",0.352695100659702
+"133","Interconexão de Redes de Computadores","Banco de Dados I",0.352877651445164
+"69","Fundamentos de Física Clássica","Banco de Dados II",0.353303845729827
+"857","Teoria da Computação","Álgebra Linear I",0.353353081287374
+"200","Lab. de Intercon. de Redes de Computadores","Lab. de Estrutura de Dados e Algoritmos",0.353515061743329
+"340","Matemática Discreta","Álgebra Vetorial e Geometria Analítica",0.353857211614825
+"471","Org. e Arquitetura de Computadores I","Lab. de Intercon. de Redes de Computadores",0.354329201667264
+"10","Banco de Dados I","Aval. de Desempenho de Sistemas Discretos",0.354387672582595
+"576","Programação II","Inteligência Artificial I",0.354606408236085
+"770","Sistemas de Informação II","Lab. de Estrutura de Dados e Algoritmos",0.354618298811866
+"607","Programação I","Matemática Discreta",0.354832142241102
+"258","Laboratório de Programação II","Álgebra Linear I",0.355352960310321
+"859","Teoria da Computação","Análise e Técnica de Algoritmos",0.355798170501692
+"855","Sistemas Operacionais","Sistemas de Informação I",0.355863894683796
+"461","Org. e Arquitetura de Computadores I","Engenharia de Software I",0.35616465499166
+"165","Lab. de Estrutura de Dados e Algoritmos","Álgebra Vetorial e Geometria Analítica",0.356629597534898
+"189","Lab. de Intercon. de Redes de Computadores","Compiladores",0.357098256683782
+"939","Teoria dos Grafos","Sistemas de Informação I",0.357438929615135
+"166","Lab. de Estrutura de Dados e Algoritmos","Análise e Técnica de Algoritmos",0.357533896603411
+"708","Redes de Computadores","Lógica Matemática",0.357756080408763
+"64","Fundamentos de Física Clássica","Álgebra Linear I",0.358296611429306
+"59","Estrutura de Dados e Algoritmos","Cálculo Diferencial e Integral I",0.358384660098753
+"319","Lógica Matemática","Cálculo Diferencial e Integral I",0.358448644572415
+"137","Interconexão de Redes de Computadores","Compiladores",0.358946300308394
+"803","Sistemas de Informação I","Matemática Discreta",0.359175813488326
+"76","Fundamentos de Física Moderna","Álgebra Linear I",0.3605796603031
+"169","Lab. de Estrutura de Dados e Algoritmos","Banco de Dados II",0.361406875962816
+"14","Banco de Dados II","Aval. de Desempenho de Sistemas Discretos",0.361529809267433
+"563","Programação II","Álgebra Vetorial e Geometria Analítica",0.361632351445251
+"768","Sistemas de Informação II","Interconexão de Redes de Computadores",0.361690307956375
+"771","Sistemas de Informação II","Lab. de Intercon. de Redes de Computadores",0.361697701956803
+"941","Teoria dos Grafos","Sistemas Operacionais",0.361908067228793
+"164","Lab. de Estrutura de Dados e Algoritmos","Álgebra Linear I",0.362466938799513
+"525","Probabilidade e Estatistica","Estrutura de Dados e Algoritmos",0.36271528634746
+"478","Org. e Arquitetura de Computadores I","Matemática Discreta",0.363369391698034
+"762","Sistemas de Informação II","Estrutura de Dados e Algoritmos",0.36384767797587
+"789","Sistemas de Informação II","Programação II",0.363948109510853
+"566","Programação II","Banco de Dados I",0.364062034247493
+"34","Compiladores","Banco de Dados II",0.364083006943108
+"493","Paradigmas de Ling. de Programação","Estrutura de Dados e Algoritmos",0.364925095673609
+"751","Sistemas de Informação II","Álgebra Linear I",0.36509051773858
+"11","Banco de Dados II","Álgebra Linear I",0.365684309495536
+"934","Teoria dos Grafos","Programação I",0.366603296249349
+"562","Programação II","Álgebra Linear I",0.366642490824867
+"742","Sistemas de Informação I","Banco de Dados II",0.368605761542693
+"533","Probabilidade e Estatistica","Lab. de Estrutura de Dados e Algoritmos",0.370295553733286
+"861","Teoria da Computação","Banco de Dados I",0.370711059416685
+"684","Redes de Computadores","Análise e Técnica de Algoritmos",0.371069596785065
+"564","Programação II","Análise e Técnica de Algoritmos",0.371589758413214
+"687","Redes de Computadores","Banco de Dados II",0.371591161556528
+"808","Sistemas de Informação I","Paradigmas de Ling. de Programação",0.371768102931363
+"546","Probabilidade e Estatistica","Paradigmas de Ling. de Programação",0.372573163628776
+"800","Sistemas de Informação I","Laboratório de Programação II",0.372724165008097
+"545","Probabilidade e Estatistica","Org. e Arquitetura de Computadores I",0.373085862457076
+"739","Sistemas de Informação I","Análise e Técnica de Algoritmos",0.373108546483458
+"314","Lógica Matemática","Álgebra Vetorial e Geometria Analítica",0.373619641185739
+"864","Teoria da Computação","Cálculo Diferencial e Integral II",0.37363060066667
+"902","Teoria dos Grafos","Análise e Técnica de Algoritmos",0.373909905628904
+"55","Estrutura de Dados e Algoritmos","Análise e Técnica de Algoritmos",0.37423251329413
+"923","Teoria dos Grafos","Laboratório de Programação I",0.374747290786874
+"160","Introdução à Computação","Gerência da Informação",0.375529244116651
+"889","Teoria da Computação","Paradigmas de Ling. de Programação",0.37553846658199
+"784","Sistemas de Informação I","Introdução à Computação",0.375592113081204
+"931","Teoria dos Grafos","Org. e Arquitetura de Computadores I",0.375919649732188
+"361","Matemática Discreta","Laboratório de Programação I",0.376872968885283
+"484","Paradigmas de Ling. de Programação","Análise e Técnica de Algoritmos",0.377108518815401
+"346","Matemática Discreta","Cálculo Diferencial e Integral II",0.377779630000675
+"162","Introdução à Computação","Inteligência Artificial I",0.378080424387665
+"942","Teoria dos Grafos","Teoria da Computação",0.379147444717853
+"117","Inteligência Artificial I","Banco de Dados I",0.379273252056702
+"331","Lógica Matemática","Introdução à Computação",0.380309468773635
+"469","Org. e Arquitetura de Computadores I","Introdução à Computação",0.380955564138172
+"586","Programação II","Lógica Matemática",0.380997293399932
+"932","Teoria dos Grafos","Paradigmas de Ling. de Programação",0.3810518417636
+"171","Lab. de Estrutura de Dados e Algoritmos","Cálculo Diferencial e Integral II",0.382049857401628
+"737","Sistemas de Informação I","Álgebra Linear I",0.382355828446129
+"364","Matemática Discreta","Lógica Matemática",0.382768222007998
+"146","Introdução à Computação","Álgebra Linear I",0.383471602981099
+"544","Probabilidade e Estatistica","Métodos Estatisticos",0.383796213114586
+"172","Lab. de Estrutura de Dados e Algoritmos","Compiladores",0.385333403411836
+"908","Teoria dos Grafos","Compiladores",0.385439539610721
+"819","Sistemas Operacionais","Banco de Dados I",0.385621947032366
+"714","Redes de Computadores","Paradigmas de Ling. de Programação",0.385664882601294
+"60","Estrutura de Dados e Algoritmos","Cálculo Diferencial e Integral II",0.387105467751855
+"9","Banco de Dados I","Análise e Técnica de Algoritmos",0.387964389018882
+"459","Org. e Arquitetura de Computadores I","Compiladores",0.38820276542011
+"817","Sistemas Operacionais","Análise e Técnica de Algoritmos",0.389074627420962
+"454","Org. e Arquitetura de Computadores I","Aval. de Desempenho de Sistemas Discretos",0.389412751975697
+"781","Sistemas de Informação II","Métodos Estatisticos",0.389446972803422
+"362","Matemática Discreta","Laboratório de Programação II",0.390064879981031
+"705","Redes de Computadores","Laboratório de Programação I",0.390888653662867
+"759","Sistemas de Informação II","Compiladores",0.392234725564185
+"693","Redes de Computadores","Estrutura de Dados e Algoritmos",0.392397979261514
+"826","Sistemas Operacionais","Estrutura de Dados e Algoritmos",0.39241097025409
+"701","Redes de Computadores","Lab. de Estrutura de Dados e Algoritmos",0.393770709605081
+"481","Org. e Arquitetura de Computadores I","Métodos Estatisticos",0.394950618254497
+"31","Compiladores","Análise e Técnica de Algoritmos",0.394985047951124
+"467","Org. e Arquitetura de Computadores I","Inteligência Artificial I",0.395625298018665
+"595","Programação II","Org. e Arquitetura de Computadores I",0.39581675094342
+"686","Redes de Computadores","Banco de Dados I",0.39590699721433
+"152","Introdução à Computação","Cálculo Diferencial e Integral I",0.396079400266088
+"558","Programação I","Estrutura de Dados e Algoritmos",0.396651209872884
+"682","Redes de Computadores","Álgebra Linear I",0.397304168325581
+"318","Lógica Matemática","Banco de Dados II",0.398091847823213
+"268","Laboratório de Programação II","Estrutura de Dados e Algoritmos",0.398367143119321
+"786","Sistemas de Informação II","Paradigmas de Ling. de Programação",0.398417877354165
+"259","Laboratório de Programação II","Álgebra Vetorial e Geometria Analítica",0.399051100745241
+"892","Teoria da Computação","Programação II",0.399448510147928
+"345","Matemática Discreta","Cálculo Diferencial e Integral I",0.401356711516191
+"745","Sistemas de Informação I","Compiladores",0.401417632505961
+"53","Estrutura de Dados e Algoritmos","Álgebra Linear I",0.401939432975933
+"599","Programação I","Lab. de Estrutura de Dados e Algoritmos",0.402548412044666
+"884","Teoria da Computação","Matemática Discreta",0.402579160975127
+"570","Programação II","Compiladores",0.404777957862832
+"356","Matemática Discreta","Introdução à Computação",0.405506801220367
+"540","Probabilidade e Estatistica","Lógica Matemática",0.405599161592418
+"794","Sistemas de Informação II","Sistemas de Informação I",0.406622972944488
+"755","Sistemas de Informação II","Banco de Dados I",0.407667409548276
+"115","Inteligência Artificial I","Análise e Técnica de Algoritmos",0.4077896133882
+"490","Paradigmas de Ling. de Programação","Compiladores",0.408522587139035
+"430","Métodos Estatisticos","Compiladores",0.408955059409249
+"897","Teoria da Computação","Sistemas de Informação I",0.409606772256615
+"717","Redes de Computadores","Programação II",0.409645598191098
+"357","Matemática Discreta","Lab. de Estrutura de Dados e Algoritmos",0.409737830612769
+"339","Matemática Discreta","Álgebra Linear I",0.409962105135054
+"22","Cálculo Diferencial e Integral II","Álgebra Linear I",0.411300832986159
+"924","Teoria dos Grafos","Laboratório de Programação II",0.412145054363685
+"831","Sistemas Operacionais","Inteligência Artificial I",0.412685512903163
+"320","Lógica Matemática","Cálculo Diferencial e Integral II",0.415060857552183
+"514","Probabilidade e Estatistica","Álgebra Linear I",0.415340263387585
+"911","Teoria dos Grafos","Estrutura de Dados e Algoritmos",0.41603747251039
+"690","Redes de Computadores","Compiladores",0.416330405995686
+"756","Sistemas de Informação II","Banco de Dados II",0.416479476190653
+"587","Programação II","Matemática Discreta",0.417565345546622
+"841","Sistemas Operacionais","Lógica Matemática",0.417893199163769
+"876","Teoria da Computação","Lab. de Estrutura de Dados e Algoritmos",0.418707440898786
+"702","Redes de Computadores","Lab. de Intercon. de Redes de Computadores",0.418827112738362
+"927","Teoria dos Grafos","Matemática Discreta",0.419153517222117
+"596","Programação II","Paradigmas de Ling. de Programação",0.41965405577315
+"699","Redes de Computadores","Interconexão de Redes de Computadores",0.420506980482612
+"456","Org. e Arquitetura de Computadores I","Banco de Dados II",0.422242617289184
+"926","Teoria dos Grafos","Lógica Matemática",0.422949661144064
+"888","Teoria da Computação","Org. e Arquitetura de Computadores I",0.423171008445192
+"785","Sistemas de Informação II","Org. e Arquitetura de Computadores I",0.423191911286439
+"470","Org. e Arquitetura de Computadores I","Lab. de Estrutura de Dados e Algoritmos",0.423277838308498
+"890","Teoria da Computação","Probabilidade e Estatistica",0.423612765003949
+"1","Álgebra Vetorial e Geometria Analítica","Álgebra Linear I",0.423774343135165
+"157","Introdução à Computação","Estrutura de Dados e Algoritmos",0.424098066565934
+"820","Sistemas Operacionais","Banco de Dados II",0.42424702729168
+"168","Lab. de Estrutura de Dados e Algoritmos","Banco de Dados I",0.424756291056585
+"422","Métodos Estatisticos","Álgebra Linear I",0.425556578100597
+"594","Programação I","Introdução à Computação",0.426698835479764
+"453","Org. e Arquitetura de Computadores I","Análise e Técnica de Algoritmos",0.426889603189066
+"33","Compiladores","Banco de Dados I",0.427052302209141
+"254","Laboratório de Programação I","Estrutura de Dados e Algoritmos",0.427644521783353
+"486","Paradigmas de Ling. de Programação","Banco de Dados I",0.428379331091577
+"846","Sistemas Operacionais","Org. e Arquitetura de Computadores I",0.428604136642099
+"462","Org. e Arquitetura de Computadores I","Estrutura de Dados e Algoritmos",0.4291096092615
+"57","Estrutura de Dados e Algoritmos","Banco de Dados I",0.429800606371435
+"919","Teoria dos Grafos","Lab. de Estrutura de Dados e Algoritmos",0.432476162484425
+"856","Sistemas Operacionais","Sistemas de Informação II",0.433204865835581
+"713","Redes de Computadores","Org. e Arquitetura de Computadores I",0.434947842046348
+"501","Paradigmas de Ling. de Programação","Lab. de Estrutura de Dados e Algoritmos",0.435053932402385
+"853","Sistemas Operacionais","Redes de Computadores",0.437243681698721
+"811","Sistemas de Informação I","Programação II",0.43786772687296
+"847","Sistemas Operacionais","Paradigmas de Ling. de Programação",0.438372025645727
+"918","Teoria dos Grafos","Introdução à Computação",0.438983607640432
+"451","Org. e Arquitetura de Computadores I","Álgebra Linear I",0.439260494459647
+"792","Sistemas de Informação II","Redes de Computadores",0.440060612142853
+"747","Sistemas de Informação I","Estrutura de Dados e Algoritmos",0.44211325825261
+"883","Teoria da Computação","Lógica Matemática",0.442174414920901
+"180","Lab. de Estrutura de Dados e Algoritmos","Introdução à Computação",0.442266480309637
+"823","Sistemas Operacionais","Compiladores",0.443231538788389
+"513","Paradigmas de Ling. de Programação","Org. e Arquitetura de Computadores I",0.445199544823132
+"777","Sistemas de Informação II","Lógica Matemática",0.44568301348372
+"315","Lógica Matemática","Análise e Técnica de Algoritmos",0.446836869307374
+"15","Banco de Dados II","Banco de Dados I",0.448575011643279
+"284","Laboratório de Programação I","Lab. de Estrutura de Dados e Algoritmos",0.449622142779106
+"455","Org. e Arquitetura de Computadores I","Banco de Dados I",0.450563034900156
+"834","Sistemas Operacionais","Lab. de Estrutura de Dados e Algoritmos",0.450613504366026
+"850","Sistemas Operacionais","Programação II",0.451900362798201
+"802","Sistemas de Informação I","Lógica Matemática",0.45327797532013
+"741","Sistemas de Informação I","Banco de Dados I",0.454025429472526
+"604","Programação I","Laboratório de Programação II",0.454191777253707
+"350","Matemática Discreta","Estrutura de Dados e Algoritmos",0.456409146225566
+"332","Lógica Matemática","Lab. de Estrutura de Dados e Algoritmos",0.456789619695532
+"437","Métodos Estatisticos","Inteligência Artificial I",0.458130882824846
+"283","Laboratório de Programação I","Introdução à Computação",0.458805845651566
+"795","Sistemas de Informação I","Lab. de Estrutura de Dados e Algoritmos",0.462662195078326
+"868","Teoria da Computação","Estrutura de Dados e Algoritmos",0.464142368644004
+"329","Lógica Matemática","Inteligência Artificial I",0.465014889111073
+"324","Lógica Matemática","Estrutura de Dados e Algoritmos",0.467047612621114
+"807","Sistemas de Informação I","Org. e Arquitetura de Computadores I",0.468427282266768
+"279","Laboratório de Programação II","Laboratório de Programação I",0.46956927770424
+"147","Introdução à Computação","Álgebra Vetorial e Geometria Analítica",0.469612537986811
+"578","Programação II","Introdução à Computação",0.472065959230079
+"274","Laboratório de Programação II","Introdução à Computação",0.472262932646644
+"508","Paradigmas de Ling. de Programação","Lógica Matemática",0.4735113243215
+"835","Sistemas Operacionais","Lab. de Intercon. de Redes de Computadores",0.473893681994821
+"121","Inteligência Artificial I","Compiladores",0.474186421631238
+"317","Lógica Matemática","Banco de Dados I",0.477177565261321
+"313","Lógica Matemática","Álgebra Linear I",0.477248417707041
+"832","Sistemas Operacionais","Interconexão de Redes de Computadores",0.4778680555023
+"321","Lógica Matemática","Compiladores",0.478190694290684
+"572","Programação II","Estrutura de Dados e Algoritmos",0.4806514960595
+"935","Teoria dos Grafos","Programação II",0.485291437978914
+"472","Org. e Arquitetura de Computadores I","Lab. de Org. e Arquitetura de Computadores",0.486048881297506
+"583","Programação II","Laboratório de Programação I",0.492902660534212
+"598","Programação II","Programação I",0.493470904949165
+"447","Métodos Estatisticos","Lógica Matemática",0.495135471391626
+"477","Org. e Arquitetura de Computadores I","Lógica Matemática",0.498126518711299
+"275","Laboratório de Programação II","Lab. de Estrutura de Dados e Algoritmos",0.499006270994632
+"664","Projeto em Computação II","Projeto em Computação I",0.508547651219701
+"579","Programação II","Lab. de Estrutura de Dados e Algoritmos",0.534575194960069
+"17","Cálculo Diferencial e Integral I","Álgebra Vetorial e Geometria Analítica",0.54402599788308
+"584","Programação II","Laboratório de Programação II",0.692859442372323
+"174","Lab. de Estrutura de Dados e Algoritmos","Estrutura de Dados e Algoritmos",0.712538830071775
+"603","Programação I","Laboratório de Programação I",0.891663037851214
+"198","Lab. de Intercon. de Redes de Computadores","Interconexão de Redes de Computadores",0.997732928672558
